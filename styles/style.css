@@ -1,11 +1,35 @@
-.body{
-    background-color: #9F9F9F;
+body{
+    background-color: #F3F1FF;
 }
 .navbar img{
     height: 51px;
     width: 40px;
-
 }
 li{
     margin: 0 15px;
+}
+.bodypart{
+    margin: 0 300px;
+}
+.col{
+    height: 200px;
+    border: solid 5px red;
+}
+.player img{
+    width:56px ;
+}
+main{
+max-width: 870px;
+
+}
+.blog img{
+    height: 117px;
+    font-weight: 177px;
+}
+main{
+    margin: 20px 0;
+}
+.line{
+    border: solid 1px #D1D1D1;
+    margin: 20px;
 }
